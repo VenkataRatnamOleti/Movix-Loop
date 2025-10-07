@@ -52,5 +52,5 @@ VITE_TMDB_API_KEY=your_tmdb_api_key_here
 - [Vite](https://vitejs.dev/) for the build tool
 
 ## 📬 Contact
-Made with ❤️ by [Your Name]  
+Made with ❤️ by [Venkata Ratnam]  
 Feel free to connect or contribute!
